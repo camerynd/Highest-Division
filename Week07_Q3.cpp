@@ -1,10 +1,3 @@
-/*
-Week07_Q3.cpp
-Duarte, Cameryn
-CSC119-142 Introduction to Programming C++ Spring 2021
-03/09/2021
-This program finds the highest grossing division in a quarter
-*/
 #include<iostream>
 #include<string>//allows use of string variables
 #include<iomanip>
